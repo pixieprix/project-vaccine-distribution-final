@@ -39,7 +39,7 @@ st.subheader("UML Model")
 
 st.markdown("""The UML diagram of the final model, along with its associated relational schema, can be found below: """)
 
-image = Image.open('figures/UML.png')
+image = Image.open('streamlit_app/figures/UML.png')
 
 st.image(image, caption='Sunrise by the mountains')
 
