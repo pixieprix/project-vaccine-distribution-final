@@ -11,7 +11,9 @@ st.set_page_config(
 st.write("# Welcome to our project webpage! 👋")
 
 
-st.write("We are a team of students hailing from 🇻🇳 and 🇸🇬. This web-app contains information about a database project we recently embarked on. You may navigate through the sidebar to find out more!")
+st.write("We are a team of students hailing from 🇻🇳 and 🇸🇬. This web-app contains information about a database project we recently embarked on. Read on to find out more!")
+
+st.markdown("""Our codebase can be accessed [here](https://github.com/pixieprix/project-vaccine-distribution-final).""")
 
 
 
