@@ -8,7 +8,7 @@ st.set_page_config(page_title="Analysis and Areas of Improvement", page_icon="ðŸ
 
 st.markdown("# Analysis and Areas of Improvement")
 
-st.markdown("""In this section, we analyse the database we have come up with, as well as provide a list of possible areas of improvements that could be pursued. """)
+st.markdown("""In this section, we analyse the database we have come up with, as well as provide a list of possible areas of improvement that could be pursued. """)
 
 st.header("Analysis")
 
